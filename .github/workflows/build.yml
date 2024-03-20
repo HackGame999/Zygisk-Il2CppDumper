@@ -1,9 +1,9 @@
-name: Last Island of Survival LITE
+name: Last Island of Survival
 on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.herogame.gplay.survival.lite"
+          description: "com.herogame.gplay.survival"
           required: true
 
 jobs:
