@@ -1,4 +1,4 @@
-name: Last Island of Survival: Unknown 15 Days
+name: Last Island of Survival
 on:
   workflow_dispatch:
       inputs:
