@@ -1,9 +1,9 @@
-name: Last Island of Survival
+name: Last Island of Survival: Unknown 15 Days
 on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.herogame.gplay.survival"
+          description: "com.herogame.gplay.lastdayrulessurvival"
           required: true
 
 jobs:
