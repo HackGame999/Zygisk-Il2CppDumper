@@ -1,4 +1,4 @@
-name: Dump
+name: Survival and Rise: Being Alive
 on:
   workflow_dispatch:
       inputs:
